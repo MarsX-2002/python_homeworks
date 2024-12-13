@@ -1,4 +1,3 @@
-
 txt = input("enter a word for palindrom check: ")
 txt_len = len(txt)
 mid = txt_len // 2
