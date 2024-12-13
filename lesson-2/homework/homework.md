@@ -73,4 +73,5 @@ Example:
 4. Write a program that takes three numbers and checks if all of them are different.
 5. Create a program that accepts two strings and checks if they have the same length.
 6. Create a program that accepts a number and checks if it’s divisible by both 3 and 5.
-7. Write a program that checks if the sum of two numbers is greater than 50.8. Create a program that checks if a given number is between 10 and 20 (inclusive)
+7. Write a program that checks if the sum of two numbers is greater than 50.
+8. Create a program that checks if a given number is between 10 and 20 (inclusive)
