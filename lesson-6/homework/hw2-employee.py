@@ -9,7 +9,7 @@ def add_employee_record():
         position = input("Enter Position: ")
         salary = input("Enter Salary: ")
 
-        # Ensure the record follows the desired format
+        # input format
         record = f"{emp_id}, {name}, {position}, {salary}\n"
         file.write(record)
         print("Employee record added successfully!\n")
@@ -20,7 +20,7 @@ def view_all_records():
     """View all employee records."""
     try:
         with open(FILE_NAME, "r") as file:
-            records = file.readlines()  # Read all lines in the file.
+            records = file.readlines()  # Read all lines 
 
         if not records or all(record.strip() == "" for record in records):
             print("No employee records found.\n")
