@@ -1,0 +1,5 @@
+Vertical AI Agents
+Vertical AI agents are highly specialized artificial intelligence (AI) systems designed for 
+specific industries or use cases, tailored to address unique business processes and challenges. 
+Unlike horizontal AI, which provides general-purpose tools, 
+Vertical AI leverages industry-specific data and insights to deliver more relevant and actionable outcomes.

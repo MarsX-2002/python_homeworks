@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 49
+Top 5 Words:
+ai - 5
+vertical - 3
+and - 3
+agents - 2
+to - 2
