@@ -1,0 +1,3 @@
+1, Mirjalol, AI Engineer, 20000
+1, Mirjalol, Ai Engineer, 2000
+22, Azizbek, CFO, 3000
