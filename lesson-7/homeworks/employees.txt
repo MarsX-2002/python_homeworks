@@ -1,0 +1,2 @@
+1001,Mirjalol,Data Analyst,120000.0
+1005,Anna,Web Developer,90000.0
