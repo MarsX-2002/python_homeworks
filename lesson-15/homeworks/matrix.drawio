@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="oKzylMfWhpxzdRadfbfa" name="Page-1">
+        <mxGraphModel dx="719" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="50" width="50" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="[1 3 2&lt;br&gt;3 4 2&lt;br&gt;4 3 7]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="50" width="50" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="83" as="sourcePoint"/>
+                        <mxPoint x="240" y="83" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&amp;nbsp;matrix.min()" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="258" y="50" width="110" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="118" y="131" as="sourcePoint"/>
+                        <mxPoint x="396" y="131" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="new_matrix -matrix.max()" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="204" y="147" width="110" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="min-max normalization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="184" y="-18" width="139" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;&quot;&gt;new_matrix =&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="46" y="67.5" width="90" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
