@@ -1,14 +1,14 @@
-book_id,book_name,successfully_sent,send_date
-"Fluent Python Clear, Concise and Effective Programming, 2nd Edition","Fluent Python Clear, Concise and Effective Programming, 2nd Edition.pdf",True,2025-01-29 22:30:45
-Hands-on-ML,Hands-on-ML.pdf,True,2025-01-29 22:30:57
-It Doesn’t Have to Be Crazy at Work ( PDFDrive ),It Doesn’t Have to Be Crazy at Work ( PDFDrive ).pdf,True,2025-01-29 22:31:52
-NumPy Cookbook (Python) (Ivan Idris),NumPy Cookbook (Python) (Ivan Idris).pdf,True,2025-01-29 22:31:58
-"NumPy, 3rd Edition Build efficient, high-speed programs using the high-performance NumPy mathematical library (Ivan Idris)","NumPy, 3rd Edition Build efficient, high-speed programs using the high-performance NumPy mathematical library (Ivan Idris).pdf",False,2025-01-29 22:32:06
-"Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing, Copy","Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing, Copy.pdf",True,2025-01-29 22:32:46
-"Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing,","Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing,.pdf",True,2025-01-29 22:33:11
-"Python Basics A Practical Introduction to Python 3 (David Amos, Dan Bader, Joanna Jablonski etc.)","Python Basics A Practical Introduction to Python 3 (David Amos, Dan Bader, Joanna Jablonski etc.).pdf",True,2025-01-29 22:34:11
-Python_3_object_oriented_programming_harness_the_power_of_Python,Python_3_object_oriented_programming_harness_the_power_of_Python.pdf,True,2025-01-29 22:34:51
-The Mom Test,The Mom Test.pdf,True,2025-01-29 22:35:11
-The Python 3 Standard Library by Example (Doug Hellmann),The Python 3 Standard Library by Example (Doug Hellmann).pdf,False,2025-01-29 22:35:20
-Zero to One book,Zero to One book.pdf,False,2025-01-29 22:38:31
-твое тело говорит,твое тело говорит.pdf,True,2025-01-29 22:39:46
+book_name,send_date,file_size_mb,cover_sent,doc_sent,error
+"Fluent Python Clear, Concise and Effective Programming, 2nd Edition.pdf",2025-02-01 18:04:29,17.83,True,True,
+Hands-on-ML.pdf,2025-02-01 18:05:03,7.35,True,True,
+It Doesn’t Have to Be Crazy at Work ( PDFDrive ).pdf,2025-02-01 18:05:26,2.64,True,True,
+NumPy Cookbook (Python) (Ivan Idris).pdf,2025-02-01 18:05:35,14.42,True,True,
+"NumPy, 3rd Edition Build efficient, high-speed programs using the high-performance NumPy mathematical library (Ivan Idris).pdf",2025-02-01 18:06:21,22.08,True,True,
+"Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing, Copy.pdf",2025-02-01 18:07:52,5.86,True,True,
+"Pandas_1_x_Cookbook_Practical_recipes_for_scientific_computing,.pdf",2025-02-01 18:08:11,5.85,True,True,
+"Python Basics A Practical Introduction to Python 3 (David Amos, Dan Bader, Joanna Jablonski etc.).pdf",2025-02-01 18:08:24,6.46,True,True,
+Python_3_object_oriented_programming_harness_the_power_of_Python.pdf,2025-02-01 18:08:35,6.06,True,True,
+The Mom Test.pdf,2025-02-01 18:08:57,0.1,True,True,
+The Python 3 Standard Library by Example (Doug Hellmann).pdf,2025-02-01 18:09:00,14.14,True,True,
+Zero to One book.pdf,2025-02-01 18:09:51,2.58,True,True,
+твое тело говорит.pdf,2025-02-01 18:09:58,0.53,True,True,
